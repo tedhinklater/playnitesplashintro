@@ -3,6 +3,8 @@ Splash Intro solution for Playnite
 
 Download FFMPEG including FFPlay. Edit the paths in Playnite Splash.bat to your playnite installation and choose your own video. 
 
+Change your Playnite shortcut to target the Playnite Splash.bat instead of Playnite.DesktopApp.exe
+
 Splash Video I'm using: 
 
 
