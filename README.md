@@ -7,10 +7,9 @@ Change your desktop Playnite shortcut to target the Playnite Splash.bat instead 
 ![Screenshot 2024-04-07 142519](https://github.com/tedhinklater/playnitesplashintro/assets/66086488/ef489d7d-4d65-4fc1-bb18-02ecf00bdc3b)
 
 Splash Video I'm using: 
-
-
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/b66204f7-4e01-41c1-b0d8-fb5d1bb912bc
 
+If you want to run it without audio, use Playnite Spash Muted.bat
 
 Older version 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/25a9034e-72b7-4389-9bd9-3cb414b673e4
