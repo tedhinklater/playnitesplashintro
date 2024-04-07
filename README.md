@@ -8,8 +8,7 @@ Change your Playnite shortcut to target the Playnite Splash.bat instead of Playn
 Splash Video I'm using: 
 
 
-
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/6c2c2e19-952c-415e-ae1a-24e5690d8fcc
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/b66204f7-4e01-41c1-b0d8-fb5d1bb912bc
 
 
 Older version 
