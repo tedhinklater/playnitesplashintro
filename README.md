@@ -9,7 +9,7 @@ Splash Video I'm using:
 
 
 
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/033e8b01-e710-4674-be4e-70ae07d94cbe
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/6c2c2e19-952c-415e-ae1a-24e5690d8fcc
 
 
 Older version 
