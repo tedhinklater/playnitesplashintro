@@ -27,6 +27,4 @@ Splash.mp4
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/3395b756-961c-4ce0-b73e-5fff9fb2ff0a
 
-If you want to run it without audio, use Playnite Spash Muted.bat
-
-
+If you want to run it without audio, use ["Playnite Spash Muted.bat"](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash%20muted.bat)
