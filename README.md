@@ -1,7 +1,7 @@
 # playnitesplashintro
 The All-Compatible Splash Intro Video Solution for Playnite
 
-Download ["Playnite Splash.bat"](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash.bat) and ["Splash.mp4"](https://github.com/tedhinklater/playnitesplashintro/blob/main/splash.mp4) . You will need [FFMPEG](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip) for the video, unzip that to any folder, for example C:\Users\username\Documents\FFMPEG and put the .bat, .mp4 and FFMPEG exe's all together in the FFMPEG folder.
+Download [Playnite Splash.bat](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash.bat) and [Splash.mp4](https://github.com/tedhinklater/playnitesplashintro/blob/main/splash.mp4) . You will need [FFMPEG](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip) for the video, unzip that to any folder, for example C:\Users\username\Documents\FFMPEG and put the .bat, .mp4 and FFMPEG exe's all together in the FFMPEG folder.
 
 FFMPEG - https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
 
@@ -27,4 +27,4 @@ Splash.mp4
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/3395b756-961c-4ce0-b73e-5fff9fb2ff0a
 
-If you want to run it without audio, use ["Playnite Spash Muted.bat"](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash%20muted.bat)
+If you want to run it without audio, use [Playnite Spash Muted.bat](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash%20muted.bat)
