@@ -25,8 +25,7 @@ Splash.mp4
 
 
 
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/8df3dbd7-5e30-40e3-8ba4-717c37abb9bb
-
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/4e28adaa-bfb5-4e4d-b5c8-afc73d13ebad
 
 
 
