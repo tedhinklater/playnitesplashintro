@@ -21,8 +21,5 @@ The final thing to arrange is how you launch it. You can right-click Playnite Sp
 
 That's it!
 
-Splash.mp4 
-
-
 
 If you want to run it without audio, use [Playnite Spash Muted.bat](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash%20muted.bat)
