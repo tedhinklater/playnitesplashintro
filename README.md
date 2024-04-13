@@ -22,4 +22,9 @@ The final thing to arrange is how you launch it. You can right-click Playnite Sp
 That's it!
 
 
+
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/665bf86a-e426-447e-9726-760185e2ab0f
+
+
+
 If you want to run it without audio, use [Playnite Spash Muted.bat](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash%20muted.bat)
