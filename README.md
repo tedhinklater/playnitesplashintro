@@ -21,10 +21,10 @@ The final thing to arrange is how you launch it. You can right-click Playnite Sp
 
 That's it!
 
-The below videos had to be compressed twice to fit GitHub's h264 <10MB limit, videos in the repo at the top are the full quality HEVC versions.
+The below video previews had to be compressed twice to fit GitHub's h264 <10MB limit, videos in the repo at the top are the full quality HEVC versions.
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/665bf86a-e426-447e-9726-760185e2ab0f
 
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/58144797-cfef-435a-a37d-47faea8244bf
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/59f457f8-9dff-44dc-b314-38ba8ca0ee45
 
 If you want to run it without audio, use [Playnite Spash Muted.bat](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash%20muted.bat)
