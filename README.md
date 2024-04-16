@@ -25,7 +25,11 @@ The below videos had to be compressed twice to fit GitHub's h264 <10MB limit, vi
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/665bf86a-e426-447e-9726-760185e2ab0f
 
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/37135f51-44c7-466a-aa22-66880af894b4
+
+
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/5c25a125-c615-4855-94fc-b0b339335bc5
+
+
 
 
 
