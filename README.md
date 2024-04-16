@@ -21,9 +21,11 @@ The final thing to arrange is how you launch it. You can right-click Playnite Sp
 
 That's it!
 
-The below video had to be compressed twice to fit GitHub's h264 <10MB limit, but [Splash.mp4](https://github.com/tedhinklater/playnitesplashintro/blob/main/splash.mp4) at the top is the full quality HEVC version
+The below videos had to be compressed twice to fit GitHub's h264 <10MB limit, videos in the repo at the top are the full quality HEVC versions.
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/665bf86a-e426-447e-9726-760185e2ab0f
+
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/37135f51-44c7-466a-aa22-66880af894b4
 
 
 
