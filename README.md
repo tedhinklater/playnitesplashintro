@@ -5,21 +5,21 @@ Download [Playnite Splash.bat](https://github.com/tedhinklater/playnitesplashint
 
 Right-click Playnite Splash.bat and click Edit. We need to change 3 paths.
 
-The first is going to launch your Playnite.FullscreenApp.exe, find where yours is located (mine is in AppData\Local\Playnite) and paste its address into the .bat, so it looks like this:
+The first address is going to launch your Playnite.FullscreenApp.exe, find where yours is located (mine is in AppData\Local\Playnite) and paste its address into the .bat, so it looks like this:
 
 "C:\Users\\**YOURUSERNAME**\\AppData\Local\Playnite\Playnite.FullscreenApp.exe"
 
-the 2nd address is for launching FFPlay.exe which will play the video. Find where it is (for example C:\Users\username\Documents\FFMPEG) and paste it into the .bat, so it looks like this:
+The 2nd address is for launching FFPlay.exe which will play the video. Find where it is (for example C:\Users\username\Documents\FFMPEG) and paste it into the .bat, so it looks like this:
 
 "C:\Users\\**YOURUSERNAME**\\Documents\FFMPEG\ffplay.exe"
 
-the 3rd address is for the actual video which will be played. It should be in the same folder as FFPlay, so it will look like this:
+The 3rd address is for the actual video which will be played. It should be in the same folder as FFPlay, so it will look like this:
 
 "C:\Users\\**YOURUSERNAME**\\Documents\FFMPEG\Splash.mp4"
 
 The final thing to arrange is how you launch it. You can right-click Playnite Splash.bat and click Send to > Desktop (Create Shortcut) and use that, or for example if you already have a Playnite shortcut in your Start Menu, you can right-click it, Open File Location, right-click the Playnite shortcut, Properties. In the "Target" box, put C:\Users\YOURUSERNAME\Documents\FFMPEG\Playnite Splash.bat
 
-That's it!
+That's it! You can use any video you like as long as it's named splash.mp4 (or whatever the 3rd address target is)
 
 The below video previews had to be compressed twice to fit GitHub's h264 <10MB limit, videos in the repo at the top are the full quality HEVC versions.
 
