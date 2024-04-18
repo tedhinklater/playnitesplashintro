@@ -30,31 +30,12 @@ https://github.com/tedhinklater/playnitesplashintro/assets/66086488/dd9fb0ae-b61
 
 The splash videos below were crafted by [Desperate-Frame-90](https://www.reddit.com/user/Desperate-Frame-90) who ALSO made an awesome [SPLASH RANDOMIZER](https://www.reddit.com/r/playnite/comments/199ffpy/i_share_videos_splash_screen_and_script_of_a/)
 
-
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/c79c84d1-4235-4a75-8b2f-0599f9b4171d
-
-
-
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/dd76db41-d039-464f-b0d1-e869402f57cb
-
-
-
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/42aa5178-8566-430b-a934-f51e007d1e43
-
-
-
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/56c93226-910c-4117-9669-466e9573d9db
-
-
-
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/13270e4c-b8e9-49d2-927b-c5bbf074b089
-
-
-
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/08b4f5bf-e3c9-4d8b-be6b-a7c20866011c
-
-
-
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/13270e4c-b8e9-49d2-927b-c5bbf074b089
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/56c93226-910c-4117-9669-466e9573d9db
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/42aa5178-8566-430b-a934-f51e007d1e43
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/dd76db41-d039-464f-b0d1-e869402f57cb
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/c79c84d1-4235-4a75-8b2f-0599f9b4171d
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/6fb5f79b-8519-4843-8bcc-4199617c5d79
 
 
