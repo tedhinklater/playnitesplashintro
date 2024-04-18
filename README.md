@@ -1,7 +1,7 @@
 # playnitesplashintro
 The All-Compatible Splash Intro Video Solution for Playnite
 
-Download [Playnite Splash.bat](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash.bat) and [Splash.mp4](https://github.com/tedhinklater/playnitesplashintro/blob/main/splash.mp4) . You will need [FFMPEG](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip) for the video, unzip that to any folder, for example C:\Users\username\Documents\FFMPEG and put the .bat, .mp4 and FFMPEG exe's all together in the FFMPEG folder.
+Download [Playnite Splash.bat](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash.bat) and [Splash.mp4](https://github.com/tedhinklater/playnitesplashintro/blob/main/splash.mp4) (or any video you want to use). You will need [FFMPEG](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip) for the video, unzip that to any folder, for example C:\Users\username\Documents\FFMPEG and put the .bat, .mp4 and FFMPEG exe's all together in the FFMPEG folder.
 
 Right-click Playnite Splash.bat and click Edit. We need to change 3 paths.
 
