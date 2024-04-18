@@ -25,7 +25,7 @@ The below video previews had to be compressed twice to fit GitHub's h264 <10MB l
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/665bf86a-e426-447e-9726-760185e2ab0f
 
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/dd9fb0ae-b61c-4c96-862b-835fb7f30c22
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/03412ee5-6caf-471b-9183-34c6fe400134
 
 
 # The splash videos below were crafted by [Blooderscrew](https://www.reddit.com/user/Desperate-Frame-90) along with an awesome [SPLASH RANDOMIZER](https://www.reddit.com/r/playnite/comments/199ffpy/i_share_videos_splash_screen_and_script_of_a/) 
