@@ -25,6 +25,7 @@ The below video previews had to be compressed twice to fit GitHub's h264 <10MB l
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/665bf86a-e426-447e-9726-760185e2ab0f
 
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/607ce42a-52c6-4ccf-83fe-f124456c7e23
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/dd9fb0ae-b61c-4c96-862b-835fb7f30c22
+
 
 If you want to run it without audio, use [Playnite Spash Muted.bat](https://github.com/tedhinklater/playnitesplashintro/blob/main/playnite%20splash%20muted.bat)
