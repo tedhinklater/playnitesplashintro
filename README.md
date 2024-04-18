@@ -28,7 +28,7 @@ https://github.com/tedhinklater/playnitesplashintro/assets/66086488/665bf86a-e42
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/dd9fb0ae-b61c-4c96-862b-835fb7f30c22
 
 
-The splash videos below were crafted by [Desperate-Frame-90](https://www.reddit.com/user/Desperate-Frame-90) who ALSO made an awesome [SPLASH RANDOMIZER](https://www.reddit.com/r/playnite/comments/199ffpy/i_share_videos_splash_screen_and_script_of_a/) 
+# The splash videos below were crafted by [Desperate-Frame-90](https://www.reddit.com/user/Desperate-Frame-90) who ALSO made an awesome [SPLASH RANDOMIZER](https://www.reddit.com/r/playnite/comments/199ffpy/i_share_videos_splash_screen_and_script_of_a/) 
 
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/08b4f5bf-e3c9-4d8b-be6b-a7c20866011c
