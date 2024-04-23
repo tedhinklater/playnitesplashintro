@@ -23,6 +23,8 @@ That's it! You can use any video you like as long as it's named splash.mp4 (or w
 
 The below video previews had to be compressed twice to fit GitHub's h264 <10MB limit, videos in the repo at the top are the full quality HEVC versions.
 
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/6a6b2afa-d945-44e4-8b9a-c98ec160d6fe
+
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/665bf86a-e426-447e-9726-760185e2ab0f
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/03412ee5-6caf-471b-9183-34c6fe400134
