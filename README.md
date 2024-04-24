@@ -33,7 +33,7 @@ https://github.com/tedhinklater/playnitesplashintro/assets/66086488/03412ee5-6ca
 # The splash videos below were crafted by [Blooderscrew](https://www.reddit.com/user/Desperate-Frame-90) along with an awesome [SPLASH RANDOMIZER](https://www.reddit.com/r/playnite/comments/199ffpy/i_share_videos_splash_screen_and_script_of_a/) 
 
 
-https://github.com/tedhinklater/playnitesplashintro/assets/66086488/08b4f5bf-e3c9-4d8b-be6b-a7c20866011c
+https://github.com/tedhinklater/playnitesplashintro/assets/66086488/9e226a69-c5b4-4907-9e34-7d767687ed57
 
 https://github.com/tedhinklater/playnitesplashintro/assets/66086488/13270e4c-b8e9-49d2-927b-c5bbf074b089
 
